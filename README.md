@@ -1,1 +1,4 @@
-# soundscape
+# Soundscape Chrome Extension
+
+## Overview
+in progress :)
